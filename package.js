@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ox2:chartjs',
-  summary: 'Chart.js library',
+  summary: 'TESTING_DO_NOT_USE Chart.js library',
   version: '1.0.2_1',
   git: ' /* Fill me in! */ '
 });
